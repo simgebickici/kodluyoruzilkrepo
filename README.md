@@ -1,5 +1,5 @@
 ## Kodluyoruz İlk Repo
- Kodluyoruz eğitimi kapsamında açtığım ilk repo
+ Kodluyoruz eğitimi kapsamında açtığım ilk repo.
 
  ![github](picture.png)
 
